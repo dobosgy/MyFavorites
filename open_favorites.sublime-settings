@@ -1,5 +1,5 @@
 {
-	"remove_long_part": ["/usr/local/htdocs"],
+	"remove_long_part": ["/usr/local/htdocs"], /* if you don't want to display a very long path */
 	"mylist": [
 		[ "One favorite file","/usr/local/htdocs/index.php" ],
 		[ "Other favorite file","/usr/local/htdocs/myhosts/mysite/myconfig.php" ]
