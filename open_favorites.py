@@ -27,7 +27,6 @@ class open_favoritesCommand(sublime_plugin.TextCommand):
 			if list_index == -1:
 				return
 			self.view.window().open_file(self.cmds[list_index])
-			#self.view.run_command("open_my_file",{"openfile": self.cmds[list_index]})
 			sublime.status_message("Opening file: " + self.cmds[list_index])
 
 		except:
