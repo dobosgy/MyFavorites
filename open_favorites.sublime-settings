@@ -1,0 +1,7 @@
+{
+	"remove_long_part": ["/usr/local/htdocs"],
+	"mylist": [
+		[ "One favorite file","/usr/local/htdocs/index.php" ],
+		[ "Other favorite file","/usr/local/htdocs/myhosts/mysite/myconfig.php" ]
+	]
+}
