@@ -4,14 +4,14 @@ A simple tool to store your favorite files and access them with a key command.
 
 ### Settings
 
-Example:
-`    {
+Example::
+    {
         "remove_long_part": ["/usr/local/htdocs"],
         "mylist": [
                 [ "One favorite file","/usr/local/htdocs/index.php" ],
                 [ "Other favorite file","/usr/local/htdocs/myhosts/mysite/myconfig.php" ]
         ]
-    }`
+    }
 
 ### Download and install manually
 
