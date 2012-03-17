@@ -22,10 +22,10 @@ Example:
 
 https://github.com/dobosgy/MyFavorites/zipball/master
 
-## Key Binding
+### Key Binding
 
 The default key binding is "f1" but you can change it anytime
 
-## Command Palette
+### Command Palette
 
 The command is "open_favorites" which opens a Quick panel with the configured favorite files
